@@ -1,0 +1,10 @@
+{
+"listaPersonas": {
+    "persona":
+      {
+       "nombre": "Pepe",
+       "apellidos": "Garcia",
+       "telefono": 999777668,
+      }
+  }
+}
