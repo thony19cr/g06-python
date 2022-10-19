@@ -2,7 +2,7 @@
 
 from datetime import datetime
 
-strFecha = "2/6/2021"
+strFecha = "2/6/2023"
 
 """
     d: día
